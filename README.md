@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhisek Nag</h1>
 <h3 align="center">I am final year CSE student. Also known as "Awaara"</h3>
+<h4 align="center">VIT Bhopal & IIT Ropar</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godm0de0n&label=Profile%20views&color=0e75b6&style=flat" alt="godm0de0n" /> </p>
 
